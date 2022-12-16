@@ -11,7 +11,7 @@
     <tbody>
     <tr *ngFor="let b of bills._embedded.bills">
       <td>{{b.id}}</td>
-      <td>{{b.billDate|date: 'dd/MM/yyyy'}}</td>
+      <td>{{b.billDate | date: 'dd/MM/yyyy'}}</td>
       <td>{{customerId}}</td>
       <td>
         <button class="btn btn-success" (click)="getDetails(b)">Bill Details</button>
