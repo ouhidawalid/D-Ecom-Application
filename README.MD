@@ -36,12 +36,12 @@
 <h4>Gateway</h4>
 <h5>Static routing</h5>
 <img src="screens/Stat_Customers.png">
-<img src="screens/Stat_Inventory.png">
+<img src="screens/Stat_Products.png">
 <img src="screens/Stat_bills.png">
 <h5>Dynamic Routing</h5>
 <img src="screens/Dyn_Customers.png">
 <img src="screens/Dyn_Inventory.png">
-<img src="screens/Dyn_bills.png">
+<img src="screens/Dyn_billing.png">
 
 <h4>Eureka Discrovery Service</h4>
 <img src="screens/eureka.png">
